@@ -58,7 +58,7 @@ The project was divided into the following key phases:
     * MS Excel
       
 * **Data Sources:**
-    * *(Describe the source of the financial dataset)*
+  * [Dataset](https://github.com/edigasreelekha/Cognifyz-project/blob/main/POWER%20BI%20COGNIFZY.csv)
 * **Methodology:**
     * Data cleaning and preprocessing steps.
     * Statistical techniques used.
